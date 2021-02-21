@@ -1,2 +1,2 @@
-print("gita comm")
-hello "Le Monde"
+print("Mahdic chebbi")
+hello "world"
